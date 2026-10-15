@@ -1,0 +1,1108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Smit Media//Klubovy Portal Events//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SDH Říčany - moje akce
+X-WR-TIMEZONE:Europe/Prague
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:event-57-101@ricany.klubovyportal.cz
+DTSTAMP:20261001T142200Z
+LAST-MODIFIED:20261001T142200Z
+DTSTART:20261001T143000Z
+DTEND:20261001T170000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/101
+URL:https://ricany.klubovyportal.cz/event/101
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-146@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261210T153000Z
+DTEND:20261210T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/146
+URL:https://ricany.klubovyportal.cz/event/146
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-98@ricany.klubovyportal.cz
+DTSTAMP:20260910T144542Z
+LAST-MODIFIED:20260910T144542Z
+DTSTART:20260910T143000Z
+DTEND:20260910T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:ZHVB - běh po stanovištích v areálu\; běh\n\nDetail: https
+ ://ricany.klubovyportal.cz/event/98
+URL:https://ricany.klubovyportal.cz/event/98
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-125@ricany.klubovyportal.cz
+DTSTAMP:20260908T092643Z
+LAST-MODIFIED:20260908T092643Z
+DTSTART:20260911T130000Z
+DTEND:20260911T210000Z
+SUMMARY:Výcvik - požární dohled městské slavnosti
+STATUS:CONFIRMED
+CATEGORIES:Školení
+LOCATION:Masarykovo nám.\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/125
+URL:https://ricany.klubovyportal.cz/event/125
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-116@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261012T153000Z
+DTEND:20261012T163000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/116
+URL:https://ricany.klubovyportal.cz/event/116
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-107@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261112T153000Z
+DTEND:20261112T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/107
+URL:https://ricany.klubovyportal.cz/event/107
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-133@ricany.klubovyportal.cz
+DTSTAMP:20260920T160410Z
+LAST-MODIFIED:20260920T160410Z
+DTSTART:20270512T040000Z
+DTEND:20270512T110000Z
+SUMMARY:Český den proti rakovině
+STATUS:TENTATIVE
+CATEGORIES:Ostatní akce
+LOCATION:251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/133
+URL:https://ricany.klubovyportal.cz/event/133
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-126@ricany.klubovyportal.cz
+DTSTAMP:20260908T093540Z
+LAST-MODIFIED:20260908T093540Z
+DTSTART:20260912T090000Z
+DTEND:20260912T130000Z
+SUMMARY:Běh na 60m s překázkami - Krajské kolo
+STATUS:CONFIRMED
+CATEGORIES:Soutěž
+LOCATION:Kutná Hora\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/126
+URL:https://ricany.klubovyportal.cz/event/126
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-181@ricany.klubovyportal.cz
+DTSTAMP:20261005T091246Z
+LAST-MODIFIED:20261005T091246Z
+DTSTART:20261013T150000Z
+DTEND:20261013T170000Z
+SUMMARY:Trénink - KRAJ ZHVB
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova 1650/1\, 251 01 Říčany-Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/181
+URL:https://ricany.klubovyportal.cz/event/181
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-158@ricany.klubovyportal.cz
+DTSTAMP:20260913T185439Z
+LAST-MODIFIED:20260913T185439Z
+DTSTART:20260913T150000Z
+DTEND:20260913T160500Z
+SUMMARY:Brigáda-mytí aut
+STATUS:TENTATIVE
+CATEGORIES:Ostatní akce
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/158
+URL:https://ricany.klubovyportal.cz/event/158
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-159@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261214T163000Z
+DTEND:20261214T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/159
+URL:https://ricany.klubovyportal.cz/event/159
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-112@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20260914T153000Z
+DTEND:20260914T163000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/112
+URL:https://ricany.klubovyportal.cz/event/112
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-198@ricany.klubovyportal.cz
+DTSTAMP:20261015T044030Z
+LAST-MODIFIED:20261015T044030Z
+DTSTART:20261015T133000Z
+DTEND:20261015T143000Z
+SUMMARY:Trénink střelby na kraj ZHVB
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Dobrovolný trénink pro soutěžící na kraji ZHVB.\n\nDetail
+ : https://ricany.klubovyportal.cz/event/198
+URL:https://ricany.klubovyportal.cz/event/198
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-103@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261015T143000Z
+DTEND:20261015T163000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/103
+URL:https://ricany.klubovyportal.cz/event/103
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-121@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261116T163000Z
+DTEND:20261116T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/121
+URL:https://ricany.klubovyportal.cz/event/121
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-163@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261217T153000Z
+DTEND:20261217T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/163
+URL:https://ricany.klubovyportal.cz/event/163
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-99@ricany.klubovyportal.cz
+DTSTAMP:20260924T112811Z
+LAST-MODIFIED:20260924T112811Z
+DTSTART:20260917T143000Z
+DTEND:20260917T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:ZHVB - trénink po stanovištích\, běh\n\nDetail: https://ric
+ any.klubovyportal.cz/event/99
+URL:https://ricany.klubovyportal.cz/event/99
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-131@ricany.klubovyportal.cz
+DTSTAMP:20260908T121114Z
+LAST-MODIFIED:20260908T121114Z
+DTSTART:20261018T040000Z
+DTEND:20261018T130000Z
+SUMMARY:Kraj ZHVB Říčany
+STATUS:TENTATIVE
+CATEGORIES:Soutěž
+LOCATION:Škroupova 2026/2\, 251 01 Říčany-Říčany u Prahy\, Česko
+DESCRIPTION:Kraj ZHVB - pořádáno v Říčanech.\nSraz pro děti později
+ .\n\nDetail: https://ricany.klubovyportal.cz/event/131
+URL:https://ricany.klubovyportal.cz/event/131
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-127@ricany.klubovyportal.cz
+DTSTAMP:20260908T093047Z
+LAST-MODIFIED:20260908T093047Z
+DTSTART:20260918T150000Z
+DTEND:20260918T180000Z
+SUMMARY:Trénink - muži
+STATUS:TENTATIVE
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/127
+URL:https://ricany.klubovyportal.cz/event/127
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-117@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261019T153000Z
+DTEND:20261019T163000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/117
+URL:https://ricany.klubovyportal.cz/event/117
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-108@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261119T153000Z
+DTEND:20261119T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/108
+URL:https://ricany.klubovyportal.cz/event/108
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-119@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261102T163000Z
+DTEND:20261102T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/119
+URL:https://ricany.klubovyportal.cz/event/119
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-79@ricany.klubovyportal.cz
+DTSTAMP:20260902T141423Z
+LAST-MODIFIED:20260902T141423Z
+DTSTART:20260902T160000Z
+DTEND:20260902T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/79
+URL:https://ricany.klubovyportal.cz/event/79
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-71@ricany.klubovyportal.cz
+DTSTAMP:20260902T140824Z
+LAST-MODIFIED:20260902T140824Z
+DTSTART:20260902T170000Z
+DTEND:20260902T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/71
+URL:https://ricany.klubovyportal.cz/event/71
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-5f1d8424e418dd58d73f1543d7464b84@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270203T170000Z
+DTEND:20270203T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-e3d7aa8e1875d9f72f0527095c1e2044@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270203T180000Z
+DTEND:20270203T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-9816c16513a9946db8d79d8edffcd4a5@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270303T170000Z
+DTEND:20270303T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-9c7605486eff4316d0701feed351812b@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270303T180000Z
+DTEND:20270303T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-b75a5244386676ce6c9e7b0fe1317268@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270407T160000Z
+DTEND:20270407T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-f725de41a7c519a581d1b81cbc2704b4@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270407T170000Z
+DTEND:20270407T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-428f34ac81bafac4e1d783bf678457dc@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270505T160000Z
+DTEND:20270505T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-24cedcb7e74a73b90768e6a4e1c35641@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270505T170000Z
+DTEND:20270505T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-b9dbdbd9edde01d47f918a3025d40feb@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270602T160000Z
+DTEND:20270602T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-a94952c9b76b6bc0b8b70dbacdc65dc2@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270602T170000Z
+DTEND:20270602T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-6b20f204b19d7aee5e9ef97bbdb7de7b@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270707T160000Z
+DTEND:20270707T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-932466cfc29b2abd6795448597b1970f@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270707T170000Z
+DTEND:20270707T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-d61f006458cb79f9afa0ab45d4670a87@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270804T160000Z
+DTEND:20270804T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-d8f69528f44a23f7df6cd6528c6b66cc@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270804T170000Z
+DTEND:20270804T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-60af44c59a62e887650fd690072dd84a@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270901T160000Z
+DTEND:20270901T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-88bae9ad68d8422dcf80820e9d477196@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20270901T170000Z
+DTEND:20270901T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-ba7ab19dc9c8d14bd74ea354d0b30506@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20271006T160000Z
+DTEND:20271006T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-0164bdbff4edfa1f727e60790d0ecdef@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20271006T170000Z
+DTEND:20271006T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-f87a1426c697a9bab9c95c324f58e086@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20271103T170000Z
+DTEND:20271103T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-63b0d40219e886da666aa88d2637fe38@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20271103T180000Z
+DTEND:20271103T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-46c91e0416550e55e7c1e3f1714bea3e@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20271201T170000Z
+DTEND:20271201T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-33581cfd000cd53d664b991b7e7ab61c@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20271201T180000Z
+DTEND:20271201T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-ec2d3ce7257e1063116fdb73fa5db5d1@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280105T170000Z
+DTEND:20280105T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-4620912c7b1f3ae45dafbebbf2a66d28@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280105T180000Z
+DTEND:20280105T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-c6a1d0b1e4868ed93cfe92aca81890e2@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280202T170000Z
+DTEND:20280202T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-329b8b47a3a61f4c5e6259db828e0405@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280202T180000Z
+DTEND:20280202T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-4f12f68323b09ae45a0fbf8c131926e8@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280301T170000Z
+DTEND:20280301T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-5160cbb520fae72c7b79da745a92b28f@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280301T180000Z
+DTEND:20280301T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-3-a63a87cd48c63814e48f9d9388faf79b@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280405T160000Z
+DTEND:20280405T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:series-1-d50465227fbfafbd2ea515e66020f53f@ricany.klubovyportal.cz
+DTSTAMP:19700101T000000Z
+LAST-MODIFIED:19700101T000000Z
+DTSTART:20280405T170000Z
+DTEND:20280405T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-113@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20260921T153000Z
+DTEND:20260921T163000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/113
+URL:https://ricany.klubovyportal.cz/event/113
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-104@ricany.klubovyportal.cz
+DTSTAMP:20261007T171809Z
+LAST-MODIFIED:20261007T171809Z
+DTSTART:20261022T143000Z
+DTEND:20261022T163000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Školní 2400/2\, 251 01 Říčany-Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/104
+URL:https://ricany.klubovyportal.cz/event/104
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-122@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261123T163000Z
+DTEND:20261123T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/122
+URL:https://ricany.klubovyportal.cz/event/122
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-100@ricany.klubovyportal.cz
+DTSTAMP:20260924T112833Z
+LAST-MODIFIED:20260924T112833Z
+DTSTART:20260924T143000Z
+DTEND:20260924T173000Z
+SUMMARY:Trénink M+S
+STATUS:TENTATIVE
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:ZHVB - trénink po stanovištích\, běh\n\nDetail: https://ric
+ any.klubovyportal.cz/event/100
+URL:https://ricany.klubovyportal.cz/event/100
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-118@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261026T163000Z
+DTEND:20261026T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/118
+URL:https://ricany.klubovyportal.cz/event/118
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-109@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261126T153000Z
+DTEND:20261126T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/109
+URL:https://ricany.klubovyportal.cz/event/109
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-187@ricany.klubovyportal.cz
+DTSTAMP:20261007T171239Z
+LAST-MODIFIED:20261007T171239Z
+DTSTART:20261127T160000Z
+DTEND:20261127T170000Z
+SUMMARY:Úklid před valnou hromadou
+STATUS:TENTATIVE
+CATEGORIES:Ostatní akce
+LOCATION:Říčany\, Czechia
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/187
+URL:https://ricany.klubovyportal.cz/event/187
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-18@ricany.klubovyportal.cz
+DTSTAMP:20261007T170238Z
+LAST-MODIFIED:20261007T170238Z
+DTSTART:20260928T050000Z
+DTEND:20260928T150000Z
+SUMMARY:O pohár starosty KSH
+STATUS:TENTATIVE
+CATEGORIES:Soutěž
+LOCATION:Hřiměždice\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/18
+URL:https://ricany.klubovyportal.cz/event/18
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-114@ricany.klubovyportal.cz
+DTSTAMP:20260927T075827Z
+LAST-MODIFIED:20260927T075827Z
+DTSTART:20260928T143000Z
+DTEND:20260928T163000Z
+SUMMARY:Zrušeno: Trénink - menší mladší
+STATUS:CANCELLED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/114
+URL:https://ricany.klubovyportal.cz/event/114
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-105@ricany.klubovyportal.cz
+DTSTAMP:20261007T171843Z
+LAST-MODIFIED:20261007T171843Z
+DTSTART:20261029T153000Z
+DTEND:20261029T173000Z
+SUMMARY:Zrušeno: Trénink M+S
+STATUS:CANCELLED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:ZRUŠENO - PRÁZDNINY\n\nDetail: https://ricany.klubovyportal.c
+ z/event/105
+URL:https://ricany.klubovyportal.cz/event/105
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-129@ricany.klubovyportal.cz
+DTSTAMP:20261003T073301Z
+LAST-MODIFIED:20261003T073301Z
+DTSTART:20261003T050000Z
+DTEND:20261003T130000Z
+SUMMARY:ZHVB - Okresní kolo
+STATUS:CONFIRMED
+CATEGORIES:Soutěž
+LOCATION:Všestary\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/129
+URL:https://ricany.klubovyportal.cz/event/129
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-110@ricany.klubovyportal.cz
+DTSTAMP:20261007T171616Z
+LAST-MODIFIED:20261007T171616Z
+DTSTART:20261203T153000Z
+DTEND:20261203T173000Z
+SUMMARY:Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/110
+URL:https://ricany.klubovyportal.cz/event/110
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-12@ricany.klubovyportal.cz
+DTSTAMP:20260902T094805Z
+LAST-MODIFIED:20260902T094805Z
+DTSTART:20260903T143000Z
+DTEND:20260903T173000Z
+SUMMARY:Trénink
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Hasičárna
+DESCRIPTION:Útoky\n\nDetail: https://ricany.klubovyportal.cz/event/12
+URL:https://ricany.klubovyportal.cz/event/12
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-123@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261130T163000Z
+DTEND:20261130T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/123
+URL:https://ricany.klubovyportal.cz/event/123
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-81@ricany.klubovyportal.cz
+DTSTAMP:20260902T141423Z
+LAST-MODIFIED:20260902T141423Z
+DTSTART:20261104T170000Z
+DTEND:20261104T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/81
+URL:https://ricany.klubovyportal.cz/event/81
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-73@ricany.klubovyportal.cz
+DTSTAMP:20260902T140825Z
+LAST-MODIFIED:20260902T140825Z
+DTSTART:20261104T180000Z
+DTEND:20261104T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/73
+URL:https://ricany.klubovyportal.cz/event/73
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-147@ricany.klubovyportal.cz
+DTSTAMP:20260911T055635Z
+LAST-MODIFIED:20260911T055635Z
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+SUMMARY:Valná hromada
+STATUS:CONFIRMED
+CATEGORIES:Ostatní akce
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Sraz a a přípravy od 16 hod \,pro členy\, starší žáky\,d
+ orost a dospělé\n\nDetail: https://ricany.klubovyportal.cz/event/147
+URL:https://ricany.klubovyportal.cz/event/147
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-115@ricany.klubovyportal.cz
+DTSTAMP:20261007T162808Z
+LAST-MODIFIED:20261007T162808Z
+DTSTART:20261005T153000Z
+DTEND:20261005T163000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/115
+URL:https://ricany.klubovyportal.cz/event/115
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-177@ricany.klubovyportal.cz
+DTSTAMP:20261005T125901Z
+LAST-MODIFIED:20261005T125901Z
+DTSTART:20261005T170000Z
+DTEND:20261005T180000Z
+SUMMARY:Trénink - KRAJ ZHVB
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova 1650/1\, 251 01 Říčany-Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/177
+URL:https://ricany.klubovyportal.cz/event/177
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-106@ricany.klubovyportal.cz
+DTSTAMP:20261007T172142Z
+LAST-MODIFIED:20261007T172142Z
+DTSTART:20261105T153000Z
+DTEND:20261105T170000Z
+SUMMARY:Školení + Trénink - M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Starší žáci + rodiče: Seznámení s novým informačním s
+ ystémem\nMladší žáci: Trénink tradičním způsobem\n\nDetail: https
+ ://ricany.klubovyportal.cz/event/106
+URL:https://ricany.klubovyportal.cz/event/106
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-5@ricany.klubovyportal.cz
+DTSTAMP:20260826T162257Z
+LAST-MODIFIED:20260826T162257Z
+DTSTART:20260905T050000Z
+DTEND:20260905T120000Z
+SUMMARY:DHL Modletice
+STATUS:TENTATIVE
+CATEGORIES:Soutěž
+LOCATION:Modletice\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/5
+URL:https://ricany.klubovyportal.cz/event/5
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-190@ricany.klubovyportal.cz
+DTSTAMP:20261008T010202Z
+LAST-MODIFIED:20261008T010202Z
+DTSTART:20270106T170000Z
+DTEND:20270106T180000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/190
+URL:https://ricany.klubovyportal.cz/event/190
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-189@ricany.klubovyportal.cz
+DTSTAMP:20261008T010201Z
+LAST-MODIFIED:20261008T010201Z
+DTSTART:20270106T180000Z
+DTEND:20270106T203000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/189
+URL:https://ricany.klubovyportal.cz/event/189
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-193@ricany.klubovyportal.cz
+DTSTAMP:20261012T114349Z
+LAST-MODIFIED:20261012T114349Z
+DTSTART:20261106T160000Z
+DTEND:20261106T180000Z
+SUMMARY:Stavba stanu - výpomoc JSDH
+STATUS:CONFIRMED
+CATEGORIES:Ostatní akce
+LOCATION:Masarykovo nám.\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Dobrovolné\n\nDetail: https://ricany.klubovyportal.cz/event/19
+ 3
+URL:https://ricany.klubovyportal.cz/event/193
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-80@ricany.klubovyportal.cz
+DTSTAMP:20260907T091537Z
+LAST-MODIFIED:20260907T091537Z
+DTSTART:20261007T160000Z
+DTEND:20261007T170000Z
+SUMMARY:Schůze výkonného výboru
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/80
+URL:https://ricany.klubovyportal.cz/event/80
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-72@ricany.klubovyportal.cz
+DTSTAMP:20260902T140825Z
+LAST-MODIFIED:20260902T140825Z
+DTSTART:20261007T170000Z
+DTEND:20261007T193000Z
+SUMMARY:Členská schůze
+STATUS:TENTATIVE
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/72
+URL:https://ricany.klubovyportal.cz/event/72
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-194@ricany.klubovyportal.cz
+DTSTAMP:20261012T212935Z
+LAST-MODIFIED:20261012T212935Z
+DTSTART:20261107T120000Z
+DTEND:20261107T180000Z
+SUMMARY:Školení - požární dohled Huso-Víno-Braní
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Masarykovo nám.\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/194
+URL:https://ricany.klubovyportal.cz/event/194
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-124@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261207T163000Z
+DTEND:20261207T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/124
+URL:https://ricany.klubovyportal.cz/event/124
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-97@ricany.klubovyportal.cz
+DTSTAMP:20260910T051854Z
+LAST-MODIFIED:20260910T051854Z
+DTSTART:20260907T150000Z
+DTEND:20260907T190000Z
+SUMMARY:Brigáda - Úklid kutlochu
+STATUS:CONFIRMED
+CATEGORIES:Schůzka
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Úklid prostor kutlochu\, přeskládání krabic\, přesunutí 
+ nadbytečných krabic do jiného prostoru.\n\nDetail: https://ricany.klubo
+ vyportal.cz/event/97
+URL:https://ricany.klubovyportal.cz/event/97
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-111@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20260907T153000Z
+DTEND:20260907T163000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/111
+URL:https://ricany.klubovyportal.cz/event/111
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-130@ricany.klubovyportal.cz
+DTSTAMP:20260908T093306Z
+LAST-MODIFIED:20260908T093306Z
+DTSTART:20261008T060000Z
+DTEND:20261008T180000Z
+SUMMARY:Modroběh
+STATUS:TENTATIVE
+CATEGORIES:Ostatní akce
+LOCATION:Strašínská\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/130
+URL:https://ricany.klubovyportal.cz/event/130
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-102@ricany.klubovyportal.cz
+DTSTAMP:20261008T100548Z
+LAST-MODIFIED:20261008T100548Z
+DTSTART:20261008T143000Z
+DTEND:20261008T173000Z
+SUMMARY:Modroběh - Trénink M+S
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Strašínská\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/102
+URL:https://ricany.klubovyportal.cz/event/102
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-120@ricany.klubovyportal.cz
+DTSTAMP:20261005T163519Z
+LAST-MODIFIED:20261005T163519Z
+DTSTART:20261109T163000Z
+DTEND:20261109T173000Z
+SUMMARY:Trénink - menší mladší
+STATUS:CONFIRMED
+CATEGORIES:Trénink
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Detail: https://ricany.klubovyportal.cz/event/120
+URL:https://ricany.klubovyportal.cz/event/120
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57-132@ricany.klubovyportal.cz
+DTSTAMP:20260910T051933Z
+LAST-MODIFIED:20260910T051933Z
+DTSTART:20260909T163000Z
+DTEND:20260909T180000Z
+SUMMARY:Brigáda - rekonstrukce kutlochu
+STATUS:CONFIRMED
+CATEGORIES:Ostatní akce
+LOCATION:Březinova\, 251 01 Říčany u Prahy\, Česko
+DESCRIPTION:Přidání světla\, oprava děr ve zdi\, přidání háku na v
+ ozík\, vizuální úprava z vně budovy\nMísto stavby stanu pro město.\
+ n\nDetail: https://ricany.klubovyportal.cz/event/132
+URL:https://ricany.klubovyportal.cz/event/132
+END:VEVENT
+END:VCALENDAR
